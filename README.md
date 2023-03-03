@@ -14,7 +14,7 @@ It also includes an implementation of the structured vector modulation adapted t
 Install the prerequisite libraries ([Numpy](https://numpy.org/), [Tensorly](http://tensorly.org/), [Statistics](https://docs.python.org/3/library/statistics.html) and [Graycode](https://gitlab.com/heikkiorsila/gray-code)) and clone this repository:
 ```
 pip install numpy tensorly statistics graycode
-git clone https://gitlab.inria.fr/maxguill/tensor-based-modulation.git
+git clone  https://github.com/maximeguillaud/tensor-based-modulation.git
 ```
 
 ### Running the example
