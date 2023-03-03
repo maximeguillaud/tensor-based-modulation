@@ -21,7 +21,7 @@ git clone https://gitlab.inria.fr/maxguill/tensor-based-modulation.git
 
 ```
 cd tensor-based-modulation
-python3 ./tbm_test.py
+python3 ./tbm_poc.py
 ```
 
 
